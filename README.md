@@ -9,7 +9,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Mkvmerge256.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/mkvtoolnix">
+<a href="https://gnomik-gomik-apps.github.io/.github/mkvtoolnix">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
